@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.3.1, 2017-07-11T13:08:28. -->
+<!-- Written by QtCreator 4.3.1, 2017-07-12T15:23:39. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -62,9 +62,9 @@
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 5.9.1 GCC 64bit</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 5.9.1 GCC 64bit</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.591.gcc_64_kit</value>
-   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
-   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">19</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">7</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <valuelist type="QVariantList" key="CMake.Configuration"/>
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
@@ -342,7 +342,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="bool" key="CMakeProjectManager.CMakeRunConfiguration.UseTerminal">true</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial18_billboards</value>
@@ -398,7 +398,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">misc05_picking_custom</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">misc05_picking_custom</value>
@@ -454,7 +454,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial09_vbo_indexing</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial09_vbo_indexing</value>
@@ -510,7 +510,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial09_several_objects</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial09_several_objects</value>
@@ -567,7 +567,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="bool" key="CMakeProjectManager.CMakeRunConfiguration.UseTerminal">true</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial02_red_triangle</value>
@@ -623,7 +623,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">playground</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">playground</value>
@@ -679,7 +679,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial03_matrices</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial03_matrices</value>
@@ -735,7 +735,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial11_2d_fonts</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial11_2d_fonts</value>
@@ -791,7 +791,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial12_extensions</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial12_extensions</value>
@@ -847,7 +847,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial16_shadowmaps_simple</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial16_shadowmaps_simple</value>
@@ -903,7 +903,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial14_render_to_texture</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial14_render_to_texture</value>
@@ -960,7 +960,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="bool" key="CMakeProjectManager.CMakeRunConfiguration.UseTerminal">false</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial04_colored_cube</value>
@@ -1016,7 +1016,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial09_AssImp</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial09_AssImp</value>
@@ -1072,7 +1072,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial17_rotations</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial17_rotations</value>
@@ -1128,7 +1128,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial18_particles</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial18_particles</value>
@@ -1184,7 +1184,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">misc05_picking_BulletPhysics</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">misc05_picking_BulletPhysics</value>
@@ -1240,7 +1240,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial16_shadowmaps</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial16_shadowmaps</value>
@@ -1296,7 +1296,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial10_transparency</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial10_transparency</value>
@@ -1352,7 +1352,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">misc05_picking_slow_easy</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">misc05_picking_slow_easy</value>
@@ -1408,7 +1408,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">heightmap</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/examples</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">heightmap</value>
@@ -1464,7 +1464,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">gears</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/examples</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">gears</value>
@@ -1520,7 +1520,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">particles</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/examples</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">particles</value>
@@ -1576,7 +1576,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">wave</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/examples</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">wave</value>
@@ -1632,7 +1632,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial15_lightmaps</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial15_lightmaps</value>
@@ -1688,7 +1688,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">boing</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/examples</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">boing</value>
@@ -1744,7 +1744,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">simple</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/examples</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">simple</value>
@@ -1800,7 +1800,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">splitview</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/examples</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">splitview</value>
@@ -1856,7 +1856,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">windows</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">windows</value>
@@ -1912,7 +1912,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">sharing</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">sharing</value>
@@ -1968,7 +1968,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">title</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">title</value>
@@ -2024,7 +2024,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">threads</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">threads</value>
@@ -2080,7 +2080,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">empty</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">empty</value>
@@ -2136,7 +2136,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">msaa</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">msaa</value>
@@ -2192,7 +2192,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tearing</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tearing</value>
@@ -2248,7 +2248,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial08_basic_shading</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial08_basic_shading</value>
@@ -2304,7 +2304,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">events</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">events</value>
@@ -2360,7 +2360,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">gamma</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">gamma</value>
@@ -2416,7 +2416,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">glfwinfo</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">glfwinfo</value>
@@ -2472,7 +2472,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">iconify</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">iconify</value>
@@ -2528,7 +2528,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">monitors</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">monitors</value>
@@ -2584,7 +2584,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">cursor</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">cursor</value>
@@ -2640,7 +2640,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">joysticks</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">joysticks</value>
@@ -2696,7 +2696,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">clipboard</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">clipboard</value>
@@ -2752,7 +2752,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">reopen</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug/external/glfw-3.1.2/tests</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">reopen</value>
@@ -2808,7 +2808,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial06_keyboard_and_mouse</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial06_keyboard_and_mouse</value>
@@ -2864,7 +2864,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial13_normal_mapping</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial13_normal_mapping</value>
@@ -2919,9 +2919,9 @@
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial05_textured_cube</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
-    <value type="bool" key="CMakeProjectManager.CMakeRunConfiguration.UseTerminal">true</value>
+    <value type="bool" key="CMakeProjectManager.CMakeRunConfiguration.UseTerminal">false</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial05_textured_cube</value>
@@ -2977,7 +2977,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">tutorial07_model_loading</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial07_model_loading</value>
@@ -3034,7 +3034,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments"></value>
     <value type="bool" key="CMakeProjectManager.CMakeRunConfiguration.UseTerminal">true</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Debug</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial01_first_window</value>

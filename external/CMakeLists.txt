@@ -11,6 +11,10 @@ add_definitions(
 	-D_CRT_SECURE_NO_WARNINGS
 )
 
+### DevIL ###
+add_subdirectory (DevIL)
+
+
 ### GLFW ###
 
 add_subdirectory (glfw-3.1.2)
