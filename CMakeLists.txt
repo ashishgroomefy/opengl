@@ -41,6 +41,7 @@ include_directories(
 	external/assimp-3.0.1270/include/
 	external/bullet-2.81-rev2613/src/
         external/DevIL/include/
+        external/jsoncpp/include/
         ${CURL_INCLUDE_DIRS}
 	.
 )
@@ -53,6 +54,7 @@ set(ALL_LIBS
         ILU
         ILUT
         ${CURL_LIBRARIES}
+        jsoncpp_lib_static
 )
 
 message("***********HELLO WORLD**********"${CURL_INCLUDE_DIRS})

@@ -14,10 +14,14 @@ add_definitions(
 ### DevIL ###
 add_subdirectory (DevIL)
 
+####
 
+add_subdirectory (jsoncpp)
+####
 ### GLFW ###
 
 add_subdirectory (glfw-3.1.2)
+
 
 include_directories(
 	glfw-3.1.2/include/GLFW/
