@@ -12,6 +12,10 @@
 #include <IL/ilut.h>
 #include <iostream>
 
+
+#include <sys/time.h>
+#include <curl/curl.h>
+
 GLuint loadBMP_custom(const char * imagepath){
 
 	printf("Reading image %s\n", imagepath);

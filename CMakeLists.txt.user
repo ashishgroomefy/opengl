@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.3.1, 2017-07-15T13:33:22. -->
+<!-- Written by QtCreator 4.3.1, 2017-07-16T19:15:19. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -345,7 +345,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial18_billboards</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial18_billboards (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial18_billboards</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -401,7 +401,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">misc05_picking_custom</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">misc05_picking_custom (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.misc05_picking_custom</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -457,7 +457,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial09_vbo_indexing</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial09_vbo_indexing (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial09_vbo_indexing</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -513,7 +513,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial09_several_objects</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial09_several_objects (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial09_several_objects</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -570,7 +570,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial02_red_triangle</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial02_red_triangle (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial02_red_triangle</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -626,7 +626,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">playground</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">playground (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.playground</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -682,7 +682,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial03_matrices</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial03_matrices (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial03_matrices</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -738,7 +738,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial11_2d_fonts</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial11_2d_fonts (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial11_2d_fonts</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -794,7 +794,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial12_extensions</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial12_extensions (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial12_extensions</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -850,7 +850,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial16_shadowmaps_simple</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial16_shadowmaps_simple (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial16_shadowmaps_simple</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -906,7 +906,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial14_render_to_texture</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial14_render_to_texture (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial14_render_to_texture</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -963,7 +963,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial04_colored_cube</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial04_colored_cube (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial04_colored_cube</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1019,7 +1019,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial09_AssImp</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial09_AssImp (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial09_AssImp</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1075,7 +1075,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial17_rotations</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial17_rotations (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial17_rotations</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1131,7 +1131,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial18_particles</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial18_particles (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial18_particles</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1187,7 +1187,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">misc05_picking_BulletPhysics</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">misc05_picking_BulletPhysics (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.misc05_picking_BulletPhysics</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1243,7 +1243,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial16_shadowmaps</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial16_shadowmaps (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial16_shadowmaps</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1299,7 +1299,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial10_transparency</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial10_transparency (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial10_transparency</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1355,7 +1355,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">misc05_picking_slow_easy</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">misc05_picking_slow_easy (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.misc05_picking_slow_easy</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1411,7 +1411,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">heightmap</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">heightmap (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.heightmap</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1467,7 +1467,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">gears</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">gears (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.gears</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1523,7 +1523,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">particles</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">particles (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.particles</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1579,7 +1579,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">wave</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">wave (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.wave</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1635,7 +1635,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial15_lightmaps</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial15_lightmaps (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial15_lightmaps</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1691,7 +1691,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">boing</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">boing (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.boing</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1747,7 +1747,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">simple</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">simple (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.simple</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1803,7 +1803,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/examples</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">splitview</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">splitview (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.splitview</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1859,7 +1859,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">windows</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">windows (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.windows</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1915,7 +1915,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">sharing</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">sharing (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.sharing</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -1971,7 +1971,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">title</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">title (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.title</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2027,7 +2027,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">threads</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">threads (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.threads</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2083,7 +2083,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">empty</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">empty (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.empty</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2139,7 +2139,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">msaa</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">msaa (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.msaa</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2195,7 +2195,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tearing</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tearing (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tearing</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2251,7 +2251,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial08_basic_shading</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial08_basic_shading (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial08_basic_shading</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2307,7 +2307,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">events</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">events (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.events</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2363,7 +2363,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">gamma</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">gamma (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.gamma</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2419,7 +2419,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">glfwinfo</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">glfwinfo (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.glfwinfo</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2475,7 +2475,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">iconify</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">iconify (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.iconify</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2531,7 +2531,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">monitors</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">monitors (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.monitors</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2587,7 +2587,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">cursor</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">cursor (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.cursor</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2643,7 +2643,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">joysticks</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">joysticks (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.joysticks</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2699,7 +2699,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">clipboard</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">clipboard (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.clipboard</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2755,7 +2755,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default/external/glfw-3.1.2/tests</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">reopen</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">reopen (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.reopen</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2811,7 +2811,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial06_keyboard_and_mouse</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial06_keyboard_and_mouse (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial06_keyboard_and_mouse</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2867,7 +2867,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial13_normal_mapping</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial13_normal_mapping (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial13_normal_mapping</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2924,7 +2924,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial05_textured_cube</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial05_textured_cube (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial05_textured_cube</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -2980,7 +2980,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial07_model_loading</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial07_model_loading (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial07_model_loading</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
@@ -3037,7 +3037,7 @@
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/ashish/Downloads/opengl_tutorials/build-ogl-OpenGL-tutorial_0015_33-Desktop_Qt_5_9_1_GCC_64bit-Default</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial01_first_window</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">tutorial01_first_window (disabled)</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.tutorial01_first_window</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>

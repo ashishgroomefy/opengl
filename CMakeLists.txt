@@ -3,6 +3,7 @@ cmake_minimum_required (VERSION 2.6)
 project (Tutorials)
 
 find_package(OpenGL REQUIRED)
+find_package(CURL REQUIRED)
 
 
 if( CMAKE_BINARY_DIR STREQUAL CMAKE_SOURCE_DIR )
@@ -40,6 +41,7 @@ include_directories(
 	external/assimp-3.0.1270/include/
 	external/bullet-2.81-rev2613/src/
         external/DevIL/include/
+        ${CURL_INCLUDE_DIRS}
 	.
 )
 
@@ -50,8 +52,10 @@ set(ALL_LIBS
         IL
         ILU
         ILUT
+        ${CURL_LIBRARIES}
 )
 
+message("***********HELLO WORLD**********"${CURL_INCLUDE_DIRS})
 add_definitions(
 	-DTW_STATIC
 	-DTW_NO_LIB_PRAGMA
@@ -59,6 +63,9 @@ add_definitions(
 	-DGLEW_STATIC
 	-D_CRT_SECURE_NO_WARNINGS
 )
+# chrono to work gnu c++ 2011 to be dupported flags see tutorial 5
+SET(GCC_SUPPORT_ISO_2011_COMPILE_FLAGS "-std=c++11")
+SET( CMAKE_CXX_FLAGS  "${CMAKE_CXX_FLAGS} ${GCC_SUPPORT_ISO_2011_COMPILE_FLAGS}" )
 
 # Tutorial 1
 add_executable(tutorial01_first_window 
@@ -82,6 +89,7 @@ add_executable(tutorial02_red_triangle
 )
 target_link_libraries(tutorial02_red_triangle
 	${ALL_LIBS}
+
 )
 # Xcode and Visual working directories
 set_target_properties(tutorial02_red_triangle PROPERTIES XCODE_ATTRIBUTE_CONFIGURATION_BUILD_DIR "${CMAKE_CURRENT_SOURCE_DIR}/tutorial02_red_triangle/")
@@ -128,7 +136,10 @@ add_executable(tutorial05_textured_cube
 	common/shader.hpp
 	common/texture.cpp
 	common/texture.hpp
-	
+        common/multipost.hpp
+        common/multipost.cpp
+
+
 	tutorial05_textured_cube/TransformVertexShader.vertexshader
 	tutorial05_textured_cube/TextureFragmentShader.fragmentshader
 )
