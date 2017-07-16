@@ -4,6 +4,34 @@
 
 #include <curl/curl.h>
 
+#include <cstdint>
+#include <iostream>
+#include <memory>
+
+
+
+std::string data; //will hold the url's contents
+
+namespace
+{
+    std::size_t callback(
+            const char* in,
+            std::size_t size,
+            std::size_t num,
+            std::string* out)
+    {
+
+        for (int c = 0; c<size*num; c++)
+            {
+                data.push_back(in[c]);
+            }
+
+        const std::size_t totalBytes(size * num);
+        out->append(in, totalBytes);
+        return totalBytes;
+    }
+}
+
 int getLandmarks(const char* theFileName)
 {
   CURL *curl;
@@ -24,114 +52,33 @@ int getLandmarks(const char* theFileName)
                CURLFORM_FILE, theFileName,
                CURLFORM_END);
 
-//  /* Fill in the filename field */
-//  curl_formadd(&formpost,
-//               &lastptr,
-//               CURLFORM_COPYNAME, "filename",
-//               CURLFORM_COPYCONTENTS, "postit2.c",
-//               CURLFORM_END);
-
-//  /* Fill in the submit field too, even if this is rarely needed */
-//  curl_formadd(&formpost,
-//               &lastptr,
-//               CURLFORM_COPYNAME, "submit",
-//               CURLFORM_COPYCONTENTS, "send",
-//               CURLFORM_END);
-
   curl = curl_easy_init();
-  multi_handle = curl_multi_init();
-
-  /* initialize custom header list (stating that Expect: 100-continue is not
-     wanted */
-  headerlist = curl_slist_append(headerlist, buf);
-  if(curl && multi_handle) {
 
     /* what URL that receives this POST */
     curl_easy_setopt(curl, CURLOPT_URL, "http://facedetection.groomefy.com/get68landmarks_new");
-    curl_easy_setopt(curl, CURLOPT_VERBOSE, 1L);
+    curl_easy_setopt(curl, CURLOPT_VERBOSE, 1L);  //tell curl to output its progress
 
-    curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headerlist);
+//    curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headerlist);
     curl_easy_setopt(curl, CURLOPT_HTTPPOST, formpost);
 
-    curl_multi_add_handle(multi_handle, curl);
 
-    curl_multi_perform(multi_handle, &still_running);
 
-    do {
-      struct timeval timeout;
-      int rc; /* select() return code */
-      CURLMcode mc; /* curl_multi_fdset() return code */
+    // Response information.
+       int httpCode(0);
+       std::unique_ptr<std::string> httpData(new std::string());
 
-      fd_set fdread;
-      fd_set fdwrite;
-      fd_set fdexcep;
-      int maxfd = -1;
+       // Hook up data handling function.
+       curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, callback);
 
-      long curl_timeo = -1;
+       // Hook up data container (will be passed as the last parameter to the
+       // callback handling function).  Can be any pointer type, since it will
+       // internally be passed as a void pointer.
+       curl_easy_setopt(curl, CURLOPT_WRITEDATA, httpData.get());
 
-      FD_ZERO(&fdread);
-      FD_ZERO(&fdwrite);
-      FD_ZERO(&fdexcep);
+// Run our HTTP GET command, capture the HTTP response code, and clean up.
+ curl_easy_perform(curl);
 
-      /* set a suitable timeout to play around with */
-      timeout.tv_sec = 1;
-      timeout.tv_usec = 0;
-
-      curl_multi_timeout(multi_handle, &curl_timeo);
-      if(curl_timeo >= 0) {
-        timeout.tv_sec = curl_timeo / 1000;
-        if(timeout.tv_sec > 1)
-          timeout.tv_sec = 1;
-        else
-          timeout.tv_usec = (curl_timeo % 1000) * 1000;
-      }
-
-      /* get file descriptors from the transfers */
-      mc = curl_multi_fdset(multi_handle, &fdread, &fdwrite, &fdexcep, &maxfd);
-
-      if(mc != CURLM_OK) {
-        fprintf(stderr, "curl_multi_fdset() failed, code %d.\n", mc);
-        break;
-      }
-
-      /* On success the value of maxfd is guaranteed to be >= -1. We call
-         select(maxfd + 1, ...); specially in case of (maxfd == -1) there are
-         no fds ready yet so we call select(0, ...) --or Sleep() on Windows--
-         to sleep 100ms, which is the minimum suggested value in the
-         curl_multi_fdset() doc. */
-
-      if(maxfd == -1) {
-#ifdef _WIN32
-        Sleep(100);
-        rc = 0;
-#else
-        /* Portable sleep for platforms other than Windows. */
-        struct timeval wait = { 0, 100 * 1000 }; /* 100ms */
-        rc = select(0, NULL, NULL, NULL, &wait);
-#endif
-      }
-      else {
-        /* Note that on some platforms 'timeout' may be modified by select().
-           If you need access to the original value save a copy beforehand. */
-        rc = select(maxfd+1, &fdread, &fdwrite, &fdexcep, &timeout);
-      }
-
-      switch(rc) {
-      case -1:
-        /* select error */
-        break;
-      case 0:
-      default:
-        /* timeout or readable/writable sockets */
-        printf("perform!\n");
-        curl_multi_perform(multi_handle, &still_running);
-        printf("running: %d!\n", still_running);
-        break;
-      }
-    } while(still_running);
-
-    curl_multi_cleanup(multi_handle);
-
+curl_easy_getinfo(curl, CURLINFO_RESPONSE_CODE, &httpCode);
     /* always cleanup */
     curl_easy_cleanup(curl);
 
@@ -140,6 +87,18 @@ int getLandmarks(const char* theFileName)
 
     /* free slist */
     curl_slist_free_all(headerlist);
-  }
+
+
+    if (httpCode == 200)
+        {
+            std::cout << "\nGot successful response from " << data << std::endl;
+        }
+        else
+        {
+            std::cout << "Couldn't GET from "  << " - exiting" << std::endl;
+            return 1;
+        }
+
+
   return 0;
 }
