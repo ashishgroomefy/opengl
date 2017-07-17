@@ -3,7 +3,8 @@ cmake_minimum_required (VERSION 2.6)
 project (Tutorials)
 
 find_package(OpenGL REQUIRED)
-find_package(CURL REQUIRED)
+#find_package(CURL REQUIRED)
+
 
 
 if( CMAKE_BINARY_DIR STREQUAL CMAKE_SOURCE_DIR )
@@ -42,7 +43,7 @@ include_directories(
 	external/bullet-2.81-rev2613/src/
         external/DevIL/include/
         external/jsoncpp/include/
-        ${CURL_INCLUDE_DIRS}
+        external/curl/include/
 	.
 )
 
@@ -53,11 +54,11 @@ set(ALL_LIBS
         IL
         ILU
         ILUT
-        ${CURL_LIBRARIES}
+        libcurl
         jsoncpp_lib_static
 )
 
-message("***********HELLO WORLD**********"${CURL_INCLUDE_DIRS})
+#message("***********HELLO WORLD**********"${CURL_INCLUDE_DIRS})
 add_definitions(
 	-DTW_STATIC
 	-DTW_NO_LIB_PRAGMA

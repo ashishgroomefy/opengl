@@ -18,6 +18,11 @@ add_subdirectory (DevIL)
 
 add_subdirectory (jsoncpp)
 ####
+
+####
+
+add_subdirectory (curl)
+####
 ### GLFW ###
 
 add_subdirectory (glfw-3.1.2)
